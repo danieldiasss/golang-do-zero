@@ -17,6 +17,7 @@ func main(){
 	//float
 	fmt.Printf("Type: %T - Value: %v\n", 1.233, 1.233 )
 	
+	
 }
 // Tipos:
 // boll (true/false)
